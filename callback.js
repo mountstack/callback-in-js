@@ -15,7 +15,7 @@ function printNames() {
     })
 }
 
-addNewNames('Asief Mahir', printNames)
+addNewNames('Asief Mahir', printNames) 
 
 
 
